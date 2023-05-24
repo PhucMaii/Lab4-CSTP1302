@@ -1,0 +1,17 @@
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\DistanceCalculator\DistanceCalculator\bin\Debug\net6.0-windows\DistanceCalculator.exe
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\DistanceCalculator\DistanceCalculator\bin\Debug\net6.0-windows\DistanceCalculator.deps.json
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\DistanceCalculator\DistanceCalculator\bin\Debug\net6.0-windows\DistanceCalculator.runtimeconfig.json
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\DistanceCalculator\DistanceCalculator\bin\Debug\net6.0-windows\DistanceCalculator.dll
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\DistanceCalculator\DistanceCalculator\bin\Debug\net6.0-windows\DistanceCalculator.pdb
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\DistanceCalculator\DistanceCalculator\obj\Debug\net6.0-windows\DistanceCalculator.csproj.AssemblyReference.cache
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\DistanceCalculator\DistanceCalculator\obj\Debug\net6.0-windows\DistanceCalculator.Form1.resources
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\DistanceCalculator\DistanceCalculator\obj\Debug\net6.0-windows\DistanceCalculator.csproj.GenerateResource.cache
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\DistanceCalculator\DistanceCalculator\obj\Debug\net6.0-windows\DistanceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\DistanceCalculator\DistanceCalculator\obj\Debug\net6.0-windows\DistanceCalculator.AssemblyInfoInputs.cache
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\DistanceCalculator\DistanceCalculator\obj\Debug\net6.0-windows\DistanceCalculator.AssemblyInfo.cs
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\DistanceCalculator\DistanceCalculator\obj\Debug\net6.0-windows\DistanceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\DistanceCalculator\DistanceCalculator\obj\Debug\net6.0-windows\DistanceCalculator.dll
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\DistanceCalculator\DistanceCalculator\obj\Debug\net6.0-windows\refint\DistanceCalculator.dll
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\DistanceCalculator\DistanceCalculator\obj\Debug\net6.0-windows\DistanceCalculator.pdb
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\DistanceCalculator\DistanceCalculator\obj\Debug\net6.0-windows\DistanceCalculator.genruntimeconfig.cache
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\DistanceCalculator\DistanceCalculator\obj\Debug\net6.0-windows\ref\DistanceCalculator.dll

@@ -1,0 +1,17 @@
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\Labwork4-Q2\Labwork4-Q2\bin\Debug\net6.0-windows\Labwork4-Q2.exe
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\Labwork4-Q2\Labwork4-Q2\bin\Debug\net6.0-windows\Labwork4-Q2.deps.json
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\Labwork4-Q2\Labwork4-Q2\bin\Debug\net6.0-windows\Labwork4-Q2.runtimeconfig.json
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\Labwork4-Q2\Labwork4-Q2\bin\Debug\net6.0-windows\Labwork4-Q2.dll
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\Labwork4-Q2\Labwork4-Q2\bin\Debug\net6.0-windows\Labwork4-Q2.pdb
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\Labwork4-Q2\Labwork4-Q2\obj\Debug\net6.0-windows\Labwork4-Q2.csproj.AssemblyReference.cache
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\Labwork4-Q2\Labwork4-Q2\obj\Debug\net6.0-windows\Labwork4_Q2.Form1.resources
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\Labwork4-Q2\Labwork4-Q2\obj\Debug\net6.0-windows\Labwork4-Q2.csproj.GenerateResource.cache
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\Labwork4-Q2\Labwork4-Q2\obj\Debug\net6.0-windows\Labwork4-Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\Labwork4-Q2\Labwork4-Q2\obj\Debug\net6.0-windows\Labwork4-Q2.AssemblyInfoInputs.cache
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\Labwork4-Q2\Labwork4-Q2\obj\Debug\net6.0-windows\Labwork4-Q2.AssemblyInfo.cs
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\Labwork4-Q2\Labwork4-Q2\obj\Debug\net6.0-windows\Labwork4-Q2.csproj.CoreCompileInputs.cache
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\Labwork4-Q2\Labwork4-Q2\obj\Debug\net6.0-windows\Labwork4-Q2.dll
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\Labwork4-Q2\Labwork4-Q2\obj\Debug\net6.0-windows\refint\Labwork4-Q2.dll
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\Labwork4-Q2\Labwork4-Q2\obj\Debug\net6.0-windows\Labwork4-Q2.pdb
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\Labwork4-Q2\Labwork4-Q2\obj\Debug\net6.0-windows\Labwork4-Q2.genruntimeconfig.cache
+C:\Users\000461754.VCC\OneDrive - Vancouver Community College\windowPrograming\Labwork4-Q2\Labwork4-Q2\obj\Debug\net6.0-windows\ref\Labwork4-Q2.dll
